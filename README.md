@@ -1,4 +1,4 @@
-Console Chat Application
+<h1>Console Chat Application</h1>
 
 Todo:
 
