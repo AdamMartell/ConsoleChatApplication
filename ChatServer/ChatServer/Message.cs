@@ -8,6 +8,7 @@ namespace ChatServer
 {
     class Message
     {
+
         public Client sender;
         public string body;
         public Message(Client Sender, string Body)

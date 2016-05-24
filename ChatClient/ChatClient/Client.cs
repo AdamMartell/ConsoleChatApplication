@@ -22,7 +22,8 @@ namespace ChatClient
         {
             while (true)
             {
-                byte[] message = Encoding.ASCII.GetBytes(Console.ReadLine());
+                string messageString = UI.GetInput();
+                byte[] message = Encoding.ASCII.GetBytes(messageString);
                 stream.Write(message, 0, message.Count());
             }
         }
@@ -32,7 +33,7 @@ namespace ChatClient
             {
                 byte[] recievedMessage = new byte[256];
                 stream.Read(recievedMessage, 0, recievedMessage.Length);
-                Console.WriteLine(Encoding.ASCII.GetString(recievedMessage).Trim(new char[] { '\0' }));
+                UI.DisplayMessage(Encoding.ASCII.GetString(recievedMessage).Trim(new char[] { '\0' }));
             }
         }
     }

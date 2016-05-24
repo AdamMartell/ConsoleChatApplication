@@ -4,3 +4,9 @@ c:\users\hobbitmafia\Dropbox\C#\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
 c:\users\hobbitmafia\Dropbox\C#\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
 c:\users\hobbitmafia\Dropbox\C#\ChatServer\ChatServer\obj\Debug\ChatServer.exe
 c:\users\hobbitmafia\Dropbox\C#\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\HobbitMafia\Dropbox\C#\ChatApplication\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\HobbitMafia\Dropbox\C#\ChatApplication\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\HobbitMafia\Dropbox\C#\ChatApplication\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\HobbitMafia\Dropbox\C#\ChatApplication\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\HobbitMafia\Dropbox\C#\ChatApplication\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\HobbitMafia\Dropbox\C#\ChatApplication\ChatServer\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache

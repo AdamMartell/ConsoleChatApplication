@@ -4,3 +4,9 @@ c:\users\hobbitmafia\Dropbox\C#\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
 c:\users\hobbitmafia\Dropbox\C#\ChatClient\ChatClient\obj\Debug\ChatClient.exe
 c:\users\hobbitmafia\Dropbox\C#\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
 C:\Users\HobbitMafia\Dropbox\C#\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+C:\Users\HobbitMafia\Dropbox\C#\ChatApplication\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\HobbitMafia\Dropbox\C#\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\HobbitMafia\Dropbox\C#\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\HobbitMafia\Dropbox\C#\ChatApplication\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\HobbitMafia\Dropbox\C#\ChatApplication\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\HobbitMafia\Dropbox\C#\ChatApplication\ChatClient\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache

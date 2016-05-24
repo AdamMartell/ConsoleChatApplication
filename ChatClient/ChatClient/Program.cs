@@ -14,7 +14,7 @@ namespace ChatClient
         {
             Console.WriteLine("Welcome to Chat Pro");
             Console.WriteLine("All Hail Console");
-            Client client = new Client("10.2.20.76", 9999);
+            Client client = new Client("10.2.20.80", 9999);
             Parallel.Invoke(client.Send, client.Recieve);
         }
     }

@@ -32,7 +32,7 @@ namespace ChatServer
                     string recievedMessageString = Encoding.ASCII.GetString(recievedMessage).Trim(new char[] { '\0' });
                     Message message = new Message(this, recievedMessageString);
                     Server.messageQueue.Enqueue(message);
-                    Console.WriteLine(recievedMessageString);
+                    //Console.WriteLine(recievedMessageString);
                 }
                 catch (Exception e)
                 {

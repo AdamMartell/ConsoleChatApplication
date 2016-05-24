@@ -19,7 +19,7 @@ namespace ChatServer
         public Server()
         {
             clients = new List<Client>();
-            localAddress = IPAddress.Parse("10.2.20.76");
+            localAddress = IPAddress.Parse("10.2.20.80");
             server = new TcpListener(localAddress, 9999);
             server.Start();
         }
