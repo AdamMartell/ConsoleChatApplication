@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Security.Claims;
@@ -414,7 +415,7 @@ namespace ChatAPI.Controllers
                     return BadRequest();
                 }
 
-                return BadRequest(ModelState);
+                return BadRequest(ModelState.Values.ToList()[0].Errors[0].ErrorMessage);
             }
 
             return null;
