@@ -2,4 +2,3 @@
 Todo:
 <ul>
   <li>Add functionality for backslash commands</li>
-  <li>create API to connect to DB</li>
